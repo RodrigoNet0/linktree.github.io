@@ -58,6 +58,7 @@ git clone https://github.com/johnggli/linktree
 Once your pull request has been merged, you can delete your branch.
 
 ## 📝 License
+![2023-08-28 (1)](https://github.com/RodrigoNet0/linktree.github.io/assets/134714036/57578bc5-aeaa-4976-bcf8-bc4f1437d9be)
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
 
